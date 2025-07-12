@@ -13,18 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -35,6 +23,54 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Badajoz",
+      "country": "Spain",
+      "date": "2025-07-12T01:37:11.283Z",
+      "notes": "",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "38.82259097617713",
+        "lng": "-7.009277343750001"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Fundao",
+      "country": "Portugal",
+      "date": "2025-07-12T01:46:27.728Z",
+      "notes": "",
+      "emoji": "🇵🇹",
+      "position": {
+        "lat": "40.16208338164619",
+        "lng": "-7.492675781250001"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Helechosa de los Montes",
+      "country": "Spain",
+      "date": "2025-07-12T01:48:31.727Z",
+      "notes": "",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "39.36827914916014",
+        "lng": "-4.746093750000001"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "date": "2025-07-12T02:16:25.389Z",
+      "notes": "",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "40.396764305572056",
+        "lng": "-3.7133789062500004"
+      },
+      "id": 98443210
     }
   ]
 }
